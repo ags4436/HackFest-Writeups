@@ -140,6 +140,6 @@ print(decoded)
 
 ```
 
-Complete code will be in file.
+Complete code will be in [file](https://github.com/VulnFreak/HackFest-Writeups/blob/main/scripts/decrypt.py)
 
 Flag :  hf0x01{N0w_y0u_4r3_r3ady_f0r_7h3_3ncryp710n_j0urn3y_may_y0u_3nj0y3d_I7}
