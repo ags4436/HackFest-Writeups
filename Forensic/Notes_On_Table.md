@@ -43,5 +43,6 @@ get_concat_v(list_im).save('hackfest.jpg')
 
 After running this code it will combine all images and you will get the flag.
 
+[!image merged](https://github.com/VulnFreak/HackFest-Writeups/blob/main/Images/hackfest.jpg)
 
 Flag : hf0x01{3nj0y_7h3_3v31ng_w17h_u$}
