@@ -8,6 +8,8 @@ From it cleares give some like python anf file give hint that it is gpg file and
 
 So this is simple we have to search from google how python encrytion work then you will one article about fernet encryption from [HERE](https://pyshark.com/encrypt-and-decrypt-files-using-python/)
 
+for script check [this](https://github.com/VulnFreak/HackFest-Writeups/blob/main/scripts/fernet.py)
+
 You will get to know that fernet required a key to decoded any file so we can write code to decode the fernet encrypted flag.txt.gpg file.
 
 After that you have to import the gpg secret file with command 
