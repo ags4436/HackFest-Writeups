@@ -1,4 +1,4 @@
-#New Encyption
+# New Encyption
 
 Description : 
 `Today we are able to crack any hashing and encryption. so I feel insecure to send message in plain text or by using old technequies so I developed my new way to encrypt the message. Let's see can anyone crack it :>`
