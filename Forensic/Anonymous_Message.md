@@ -9,6 +9,6 @@ So we are provide with the video of anonymous it is having speech of anonymous b
 
 There simply you have to add the spectogram and you will find the flag.
 
-![Audacity]()
+![Audacity](https://github.com/VulnFreak/HackFest-Writeups/blob/main/Images/audacity.jpg)
 
 Flag : hf0x01{FINALLY_Y0U_G0T_S3CR3T_MESSAg3}
